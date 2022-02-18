@@ -1,1 +1,1 @@
-# RA-Microsoft-Hololens-2-WM-Interaccion-con-objeto-3D
+# RA-Microsoft-Hololens-2-WMR-Interaccion-con-objeto-3D
